@@ -30,20 +30,31 @@ font-style: normal;
 }
 
 .menu{
-    height:125px;
-    margin-left:20%;
-    margin-right:20%;
+    height:140px;
+    padding-left:15%;
+    padding-right:15%;
     align-content: center;
     text-align: center;
 }
 
 .menu img{
     width:75px;
+    margin-bottom: 10px;
 }
 
-.fiftypercent{
-
+.menu p{
+    margin-bottom: 5px;
 }
+
+.lightblue{
+background-color: #d8eaf3;
+}
+
+.blue h1{
+    color: #00a2ce;
+}
+
+
 
 .col{
     padding-right:0;
